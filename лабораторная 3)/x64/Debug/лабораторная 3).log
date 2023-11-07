@@ -1,4 +1,0 @@
-﻿  FileName.cpp
-C:\Users\denis\source\repos\лабораторная 3)\лабораторная 3)\FileName.cpp(51,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\denis\source\repos\лабораторная 3)\лабораторная 3)\FileName.cpp(52,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  лабораторная 3).vcxproj -> C:\Users\denis\source\repos\лабораторная 3)\x64\Debug\лабораторная 3).exe
